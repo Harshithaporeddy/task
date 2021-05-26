@@ -6,6 +6,11 @@ chicken
 spinach 
 beans
 
+pizza
+burger
+
 thankyou
+
+done my changes
 
 final copy
