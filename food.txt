@@ -6,4 +6,7 @@ chicken
 spinach 
 beans
 
+pizza
+burger
+
 thankyou
