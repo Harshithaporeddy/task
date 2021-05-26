@@ -2,3 +2,8 @@ welcome
 
 biryani
 chicken
+
+spinach 
+beans
+
+thankyou
